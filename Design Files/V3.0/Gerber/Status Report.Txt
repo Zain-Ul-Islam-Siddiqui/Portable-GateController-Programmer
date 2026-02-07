@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [WT-32 V3.0.PrjPcb]
+   Generated File[Webbie-V3.0-RoundHoles.TXT]
+   Generated File[Webbie-V3.0-SlotHoles.TXT]
+   Generated File[Webbie-V3.0.LDP]
+   Generated File[Webbie-V3.0.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 12:48:36 AM On 8/13/2025
