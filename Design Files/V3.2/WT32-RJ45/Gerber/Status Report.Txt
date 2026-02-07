@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [WT32-RJ45.PrjPcb]
+   Generated File[PCB-Mod.TXT]
+   Generated File[PCB-Mod.LDP]
+   Generated File[PCB-Mod.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 11:42:40 AM On 10/3/2025

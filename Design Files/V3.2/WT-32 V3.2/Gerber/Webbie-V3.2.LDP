@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: D:\Freelance Projects\Alexis-Elias\Design Files\V3.2\WT-32 V3.2\Webbie-V3.2.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=webbie-v3.2-roundholes.txt|DrillLayers=gtl,g1,g2,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=webbie-v3.2-slotholes.txt|DrillLayers=gtl,g1,g2,gbl
