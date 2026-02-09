@@ -1,8 +1,6 @@
 # Portable [LP4502](https://www.mercury-security.com/products/lp4502/) Programming Device
 ## Overview
-
 This project defines a portable, handheld programming and diagnostics device for electronic gate, door, and lift control systems used in buildings, hotels, and industrial facilities.
-
 The device replaces the need for technicians to carry laptops on-site for maintenance, calibration, troubleshooting, and data extraction. It provides a compact, touchscreen-based solution capable of interfacing directly with control boards via Ethernet, operating fully offline, and synchronizing data to the cloud when connectivity is available.
 
 The project is designed as an open-source access control and diagnostics platform for building technicians and engineers.
