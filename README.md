@@ -40,7 +40,7 @@ A portable, handheld programming and diagnostics device for electronic gates, do
 - Power: Portable (battery-powered or external supply)
 
 ## PCB
-![Alt text](PCB.PNG)
+![Alt text](PCB.png)
 
 ## User Interface
 - Touchscreen-based interface
