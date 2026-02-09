@@ -39,6 +39,9 @@ A portable, handheld programming and diagnostics device for electronic gates, do
 - Storage: On-device non-volatile storage
 - Power: Portable (battery-powered or external supply)
 
+## PCB
+![Alt text](PCB.PNG)
+
 ## User Interface
 - Touchscreen-based interface
 - Embedded web UI
@@ -52,7 +55,6 @@ A portable, handheld programming and diagnostics device for electronic gates, do
 - Documentation and usage guides
 - Open-source repository with PRD, schematics, and firmware
 
-## System Block Diagram
+## Device
 ![Alt text](Board1.jpeg)
-## LoRa Shield (RFM95)
 ![Alt text](Board2.jpeg)
