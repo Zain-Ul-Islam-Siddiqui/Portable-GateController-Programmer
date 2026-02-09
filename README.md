@@ -53,6 +53,6 @@ A portable, handheld programming and diagnostics device for electronic gates, do
 - Open-source repository with PRD, schematics, and firmware
 
 ## System Block Diagram
-![Alt text](Board1.png)
+![Alt text](Board1.jpeg)
 ## LoRa Shield (RFM95)
-![Alt text](Board2.png)
+![Alt text](Board2.jpeg)
